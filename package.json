@@ -1,0 +1,26 @@
+{
+  "name": "dasha-mail",
+  "version": "0.1.0",
+  "description": "Modern Node.js client for DashaMail API (async, ESM, universal camelCase methods)",
+  "main": "./dasha-mail/client.js",
+  "exports": {
+    ".": "./dasha-mail/client.js"
+  },
+  "type": "module",
+  "keywords": [
+    "dashamail",
+    "email",
+    "api",
+    "nodejs",
+    "client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-vendor/dasha-mail-node-client.git"
+  },
+  "author": "Alexander Majorov <alexander.majorov@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
